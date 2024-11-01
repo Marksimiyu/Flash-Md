@@ -20,7 +20,7 @@
 
 #### SETUP 
 
-***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+***1.`First STAR 🌟 This Repo ` And Then [`DOWNLOAD`](https://github.com/franceking1/Flash-Md/fork) It***
 
 ***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-scanner.onrender.com) Or [`PAIRING CODE`](https://pair-flaash-a1897ea752f7.herokuapp.com/pair)***
 
